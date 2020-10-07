@@ -40,22 +40,3 @@ melons = {
         'local': False
     }
 }
-
-# print(melon_names['cantaloupe'])
-
-
-# melon_prices = {
-#     1: 0.99,
-#     2: 2.00,
-#     3: 2.50,
-#     4: 2.50,
-#     5: 0.99,
-# }
-
-# melon_seedlessness = {
-#     1: True,
-#     2: False,
-#     3: False,
-#     4: False,
-#     5: False,
-# }
